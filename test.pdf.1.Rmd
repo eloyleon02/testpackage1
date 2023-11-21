@@ -1,6 +1,6 @@
 ---
 title: "test.1"
-author: "Jorge Eloy, mexico"
+author: "Jorge Eloy, mexico 2"
 date: "2023-11-21"
 output: pdf_document
 ---
